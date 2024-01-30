@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MWRus
 - 👀 I’m interested in learning Data Analysis
 - 🌱 I’m currently learning Coursera's Business Intelligence Course
-- 💞️ I’m looking to collaborate on nothing at this time
+- 💞️ I’m looking to collaborate on nothing at this time, as I am new to this platform and learning Data Analysis
 
 
 <!---
